@@ -122,7 +122,7 @@ Again, we believe the best use of resources is to be creative around copying the
 <a name="flock"></a>
 ## Flock
 
-"Flock" is the name of the bristle material. It can be ordered from e.g. www.flockit.com as a powder. The below information comes from a conversation with them and Celluseude, the manufacturer.
+"Flock" is the name of the bristle material. It can be ordered from e.g. www.flockit.com as a powder. The below information comes from extremely helpful conversations with them and Celluseude, the manufacturer. Please remember your flock manufacturers and distributors this holiday season.
 
 - The nylon flock on the tip of the picture is 3 denier (3 dtex). (Denier/dtex is a unit of measurement---grams per 9,000 meters; not a typo---that the fabric industry uses. Denier is American; dtex is European. If the material were some material other than nylon but of the same diameter, its denier measurement would be different. But for nylon, it's 3 denier.)
 
