@@ -33,9 +33,9 @@ Anything you find here is free for use for all.
 <a name="design"></a>
 ## Basic description of an NP swab
 
-![Copan 480C](https://github.com/rarnaout/Covid19-NP-Swab/blob/master/copan_flocked_swab_macro.png)
+![Copan 480C](swab_images/copan_flocked_swab_macro.png)
 
-![Copan 480C closeup](https://github.com/rarnaout/Covid19-NP-Swab/blob/master/copan_flocked_swab_micro_1.png)
+![Copan 480C closeup](swab_images/copan_flocked_swab_micro_1.png)
 
 An NP swab is a flexible stick around 15cm in length that goes up your nose to the back of the nasal cavity (see [movie](https://www.youtube.com/watch?v=hXohAo1d6tk&feature=youtu.be&t=40)). It is swept or twirled around to brush or wick up secretions, which carry Covid-19 virus particles. The swab comes out of the nose and goes into a vial that contains fluid (viral transport medium). The vial gets capped and sent for processing.
 
@@ -94,7 +94,7 @@ There are three main approaches to solving this crisis: (1) scrounging, (2) repu
 
 ### Scrounging, Repurposing
 
-...but just a word about scrounging and repurposing. There are lots of swabs used for various things floating around hospitals, outpatient clinics, private practices, and so on. **Be creative and ask everyone you know. That's what we've been doing and it's gotten us thousands of swabs.** This is a stopgap at best, but every swab counts. 
+...but just a word about scrounging and repurposing. There are lots of swabs used for various things floating around hospitals, outpatient clinics, private practices, and so on. **Be creative and ask everyone you know. That's what we've been doing and it's gotten us thousands of swabs.** This is a stopgap at best, but every swab counts.
 
 Will a repurposed swab work? Find someone who uses NP swabs, take pictures of what you find, and ask that person to weigh in on suitability. (We've been asking our respiratory care personnel.) In practice, as long as the materials are not wood or cotton, there's a chance you've got something usable. **If you find something that works, please tell us,** along with how you know it works, and we'll post it.
 
@@ -128,7 +128,7 @@ Again, we believe the best use of resources is to be creative around copying the
 
 - The flock on the flocked swab above was likely applied using electrostatic deposition: flock coated with something positively charged, shaft coated with adhesive and electrically grounded. We do not need to do this: the previous version of swabs, still widely in use, have matted flock and they work well enough (slightly lower sensitivity but clinically for now we'll take it)
 
-- In general acrylic is used as the adhesive for flock, but be aware that acrylic is a **known PCR inhibitor** (see below). Decision point is rinse a lot to remove loose acrylic vs. just use something safer. Apparently Elmer's has something of the same problem. 
+- In general acrylic is used as the adhesive for flock, but be aware that acrylic is a **known PCR inhibitor** (see below). Decision point is rinse a lot to remove loose acrylic vs. just use something safer. Apparently Elmer's has something of the same problem.
 
 - The only colors we should consider for the nylon are black and white, with preference for white. Black has some inorganic compound that was thought to be benign; white has titanium inside the fiber but not on the surface. White is the purest nylon. Colored nylons have various ionic or covalent groups on the outside, which are probably not things we want to deal with.
 
@@ -147,7 +147,7 @@ Coming soon
 <a name="contact"></a>
 ## Contact us
 
-We want to emphasize this is a **group effort** with literally scores of people working on this right now; if you're reading this, you're probably one of them. If you have something to contribute, please contact Dr. Ramy Arnaout, MD, DPhil, at rarnaout@bidmc.harvard.edu. 
+We want to emphasize this is a **group effort** with literally scores of people working on this right now; if you're reading this, you're probably one of them. If you have something to contribute, please contact Dr. Ramy Arnaout, MD, DPhil, at rarnaout@bidmc.harvard.edu.
 
 Note there's also now a [Slack channel](https://join.slack.com/t/rapidmanufact-iop4498/shared_invite/zt-cykndes6-XtxzG~8bkji64M3wTVWiOw).
 
