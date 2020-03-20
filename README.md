@@ -8,7 +8,7 @@ As clinical laboratories around the world have begun testing for Covid-19, we ha
 
 Because the crisis is **now,** the goal is to re-create versions of the swabs already in use (as opposed to creating better/fundamentally different redesigns).
 
-The files in this repo contain some information to get started.
+The files in this repo contain some information to get started. **This includes .stl files that you can modify/print (see the list of files above).**
 
 If anyone has any questions, please reach out to any of the contributors here or to Dr. Ramy Arnaout, MD, DPhil, at rarnaout@bidmc.harvard.edu.
 
@@ -17,10 +17,14 @@ This is a team effort with already dozens of people involved from all over the c
 Anything you find here is free for use for all.
 
 
+## Contents
+
 - [Basic description of an NP swab](#design)
 - [Requirements](#reqs)
 - [NOT required](#not-reqs)
 - [List of known acceptable swabs](#acceptable-swabs)
+- [Approaches](#appraoches)
+
 
 
 
@@ -33,7 +37,11 @@ Anything you find here is free for use for all.
 
 An NP swab is a flexible stick around 15cm in length that goes up your nose to the back of the nasal cavity (see [movie](https://www.youtube.com/watch?v=hXohAo1d6tk&feature=youtu.be&t=40)). It is swept or twirled around to brush or wick up secretions, which carry Covid-19 virus particles. The swab comes out of the nose and goes into a vial that contains fluid (viral transport medium). The vial gets capped and sent for processing.
 
-There are two parts: a bristled bulb end (above) and a shaft. Often the shaft itself has a thin neck, for flexibility, and a thicker handle. The handle is often *scored*---a weak point in the shaft---where you can break it off so the bristled part stays in the vial; the handle is then thrown away.
+There are **two parts**: a bristled **bulb** end (above) and a **shaft**. 
+
+The bulb looks like it would be fluffy to the touch but it is not: the bristles are short enough that it feels more like hard foam.
+
+Often the shaft itself has a thin **neck**, for flexibility, and a thicker **handle**. The handle is often **scored**---a weak point in the shaft---where you can break it off so the bristled part stays in the vial; the handle is then thrown away.
 
 The distance along the handle where the scoring occurs depends on the vial you use. For example, for the vials for use with Copan 480C swabs, the breakpoint is 7cm; for [15-](https://www.fishersci.com/shop/products/falcon-15ml-conical-centrifuge-tubes-5/p-193301) or [50-mL](https://www.fishersci.com/shop/products/falcon-50ml-conical-centrifuge-tubes-2/p-193321) conical tubes (of the kind used routinely in biomedical research and sold by many manufacturers), 11.5 cm will do (the 15mL Falcons are listed as 12cm, 50mL as 11.5cm, but we haven't checked yet whether this is interior height or includes the cap).
 
@@ -75,3 +83,35 @@ Product numbers are listed. Unless otherwise stated, these are from the [FDA app
 *(1)* Preferred, per FDA
 
 *(2)* Acceptable, per BIDMC
+
+
+<a name="approaches"></a>
+## Approaches
+
+There are three main approaches to solving this crisis: (1) scrounging, (2) repurposing existing materials, and (3) manufacturing. This repo is mostly about (3)...
+
+### Scrounging
+
+...but just a word about scrounging. There are lots of swabs used for various things floating around hospitals, outpatient clinics, private practices, and so on. **Be creative and ask everyone you know. That's what we've been doing and it's gotten us thousands of swabs.** This is a stopgap at best, but every swab counts. Find someone who uses NP swabs, take pictures of what you find, and ask that person to weigh in on suitability. (We've been asking our respiratory care personnel.) In practice, as long as the materials are not wood or cotton, there's a chance you've got something usable. **If you find something that works, please tell us,** along with how you know it works, and we'll post it.
+
+### Repurposing
+
+We are looking into using small urine loops as shafts; we don't yet have a solution for how to apply a swab end. Will post if we do. At least there are usually very many of these around in clinical microbiology laboratories.
+
+### 3D printing
+
+The consensus of a fair bit of thinking on our part is the simplest high-throughput approach is:
+
+- 3D print a wand with the appropriate form factor (e.g. see the picture above and the .stl files)
+- dip bulb in adhesive (we are working on appropriate adhesives)
+- dip sticky bulb in flock
+- shake/blow/rinse off excess flock
+- (if needed) dip in 70% ethanol for sterilization
+
+There are several alternatives being tried. To save you some time:
+
+#### 
+
+
+
+
