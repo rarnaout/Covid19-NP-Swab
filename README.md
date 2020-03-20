@@ -24,6 +24,7 @@ Anything you find here is free for use for all.
 - [List of known acceptable swabs](#acceptable-swabs)
 - [Approaches](#approaches)
 - [Flock](#flock)
+- [Materials and adhesives](#adhesive)
 - [Contact](#contact)
 
 
@@ -137,7 +138,7 @@ Again, we believe the best use of resources is to be creative around copying the
 
 
 <a name="adhesive"></a>
-## Adhesive
+## Materials and adhesives
 
 Some materials and adhesives inhibit PCR. See the Kodzius and forensicGEM files for details.
 
