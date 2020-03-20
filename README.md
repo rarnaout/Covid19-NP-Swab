@@ -3,7 +3,7 @@ Designing or repurposing a nasopharyngeal swab for COVID19 testing
 
 As clinical laboratories around the world have begun testing for Covid-19, we have encountered a new crisis: a shortage of the swabs required to obtain the necessary sample. These are called nasopharyngeal swabs, or NP swabs for short.
 
-The goal of this repository is sharing exertise to manufacture swabs.
+The goal of this repository is sharing expertise to manufacture swabs.
 
 More specifically, because the crisis is now, the goal is to re-create versions of the swabs already in use (as opposed to better/fundamentally different designs).
 
