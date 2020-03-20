@@ -24,6 +24,8 @@ Anything you find here is free for use for all.
 - [NOT required](#not-reqs)
 - [List of known acceptable swabs](#acceptable-swabs)
 - [Approaches](#approaches)
+- [Flock](#flock)
+- [Contact](#contact)
 
 
 
@@ -37,7 +39,7 @@ Anything you find here is free for use for all.
 
 An NP swab is a flexible stick around 15cm in length that goes up your nose to the back of the nasal cavity (see [movie](https://www.youtube.com/watch?v=hXohAo1d6tk&feature=youtu.be&t=40)). It is swept or twirled around to brush or wick up secretions, which carry Covid-19 virus particles. The swab comes out of the nose and goes into a vial that contains fluid (viral transport medium). The vial gets capped and sent for processing.
 
-There are **two parts**: a bristled **bulb** end (above) and a **shaft**. 
+There are **two parts**: a bristled **bulb** end (above) and a **shaft**. The bristles in the above are nylon.
 
 The bulb looks like it would be fluffy to the touch but it is not: the bristles are short enough that it feels more like hard foam.
 
@@ -90,28 +92,60 @@ Product numbers are listed. Unless otherwise stated, these are from the [FDA app
 
 There are three main approaches to solving this crisis: (1) scrounging, (2) repurposing existing materials, and (3) manufacturing. This repo is mostly about (3)...
 
-### Scrounging
+### Scrounging, Repurposing
 
-...but just a word about scrounging. There are lots of swabs used for various things floating around hospitals, outpatient clinics, private practices, and so on. **Be creative and ask everyone you know. That's what we've been doing and it's gotten us thousands of swabs.** This is a stopgap at best, but every swab counts. Find someone who uses NP swabs, take pictures of what you find, and ask that person to weigh in on suitability. (We've been asking our respiratory care personnel.) In practice, as long as the materials are not wood or cotton, there's a chance you've got something usable. **If you find something that works, please tell us,** along with how you know it works, and we'll post it.
+...but just a word about scrounging and repurposing. There are lots of swabs used for various things floating around hospitals, outpatient clinics, private practices, and so on. **Be creative and ask everyone you know. That's what we've been doing and it's gotten us thousands of swabs.** This is a stopgap at best, but every swab counts. 
 
-### Repurposing
+Will a repurposed swab work? Find someone who uses NP swabs, take pictures of what you find, and ask that person to weigh in on suitability. (We've been asking our respiratory care personnel.) In practice, as long as the materials are not wood or cotton, there's a chance you've got something usable. **If you find something that works, please tell us,** along with how you know it works, and we'll post it.
 
-We are looking into using small urine loops as shafts; we don't yet have a solution for how to apply a swab end. Will post if we do. At least there are usually very many of these around in clinical microbiology laboratories.
+### Manufacturing
 
-### 3D printing
-
-The consensus of a fair bit of thinking on our part is the simplest high-throughput approach is:
+The consensus of a fair bit of thinking on our part is the simplest high-throughput approach is **3D printing**:
 
 - 3D print a wand with the appropriate form factor (e.g. see the picture above and the .stl files)
 - dip bulb in adhesive (we are working on appropriate adhesives)
-- dip sticky bulb in flock
+- dip sticky bulb in [flock](#flock)
 - shake/blow/rinse off excess flock
 - (if needed) dip in 70% ethanol for sterilization
 
-There are several alternatives being tried. To save you some time:
+If this sounds like how you'd solve this problem if you were still in elementary school, you're right. This is basically decorating Easter eggs (if you started with a 3D-printed Easter egg). Currently we have no proven way to automate the last three steps so we are envisioning a "student army," as mentioned above. **If you've got a better idea, now's the time.**
+
+There are several alternatives being tried:
+
+- We are looking into using small urine loops as shafts; we don't yet have a solution for how to apply a swab end. Will post if we do. At least there are usually very many of these around in clinical microbiology laboratories
+- Printing a bristled head is a no-go for conventional 3D printers, as the features are too small. It is possible that a sand-blasted/chemically etched/otherwise roughened bulb *might* work, but we are not doing research here: we're looking for our best bet for a sure thing
+- Mascara brushes. The consensus so far is, the materials might be right but the brushes are far too large/widely spaced. Again, they *might* work, but see above
+
+Again, we believe the best use of resources is to be creative around copying the template, not redesigning swabs.
 
 
+<a name="flock"></a>
+## Flock
+
+"Flock" is the name of the bristle material. It can be ordered from e.g. www.flockit.com as a powder. The below information comes from a conversation with them and Celluseude, the manufacturer.
+
+- The nylon flock on the tip of the picture is 3 denier (3 dtex). (Denier/dtex is a unit of measurement---grams per 9,000 meters; not a typo---that the fabric industry uses. Denier is American; dtex is European. If the material were some material other than nylon but of the same diameter, its denier measurement would be different. But for nylon, it's 3 denier.)
+
+- The flock on the flocked swab above was likely applied using electrostatic deposition: flock coated with something positively charged, shaft coated with adhesive and electrically grounded. We do not need to do this: the previous version of swabs, still widely in use, have matted flock and they work well enough (slightly lower sensitivity but clinically for now we'll take it)
+
+- In general acrylic is used as the adhesive for flock, but be aware that acrylic is a **known PCR inhibitor** (see below). Decision point is rinse a lot to remove loose acrylic vs. just use something safer. Apparently Elmer's has something of the same problem. 
+
+- The only colors we should consider for the nylon are black and white, with preference for white. Black has some inorganic compound that was thought to be benign; white has titanium inside the fiber but not on the surface. White is the purest nylon. Colored nylons have various ionic or covalent groups on the outside, which are probably not things we want to deal with.
+
+- Rayon is also safe to use
 
 
+<a name="adhesive"></a>
+## Adhesive
 
+
+Coming soon
+
+
+<a name="contact"></a>
+## Contact us
+
+We want to emphasize this is a **group effort** with literally scores of people working on this right now; if you're reading this, you're probably one of them. If you have something to contribute, please contact Dr. Ramy Arnaout, MD, DPhil, at rarnaout@bidmc.harvard.edu. 
+
+Note there's also now a Slack channel: 
 
