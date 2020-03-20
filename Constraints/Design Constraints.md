@@ -1,9 +1,9 @@
 # Mechanical Constraints
 Swab
--   	outer diameter of swab is 3mm or less
--     minimum swab length is 15cm - *confirm this*
--     swab should flex (75 degrees? - *confirm this*
--     swab should break 7cm from tip
+- outer diameter of swab is 3mm or less
+- minimum swab length is 15cm - *confirm this*
+- swab should flex (75 degrees? - *confirm this*
+- swab should break 7cm from tip
 
 Swab Bristles
 -     should be 1.5mm in length
