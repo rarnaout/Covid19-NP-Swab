@@ -12,8 +12,6 @@ The files in this repo contain some information to get started. **This includes 
 
 If anyone has any questions, please reach out to any of the contributors here or to Dr. Ramy Arnaout, MD, DPhil, at rarnaout@bidmc.harvard.edu.
 
-This is a team effort with already dozens of people involved from all over the country, including industry, academia, and just members of the public, none looking for thanks or recognition, helping out just because they can.
-
 Anything you find here is free for use for all.
 
 
@@ -45,7 +43,7 @@ The bulb looks like it would be fluffy to the touch but it is not: the bristles 
 
 Often the shaft itself has a thin **neck**, for flexibility, and a thicker **handle**. The handle is often **scored**---a weak point in the shaft---where you can break it off so the bristled part stays in the vial; the handle is then thrown away.
 
-The distance along the handle where the scoring occurs depends on the vial you use. For example, for the vials for use with Copan 480C swabs, the breakpoint is 7cm; for [15-](https://www.fishersci.com/shop/products/falcon-15ml-conical-centrifuge-tubes-5/p-193301) or [50-mL](https://www.fishersci.com/shop/products/falcon-50ml-conical-centrifuge-tubes-2/p-193321) conical tubes (of the kind used routinely in biomedical research and sold by many manufacturers), 11.5 cm will do (the 15mL Falcons are listed as 12cm, 50mL as 11.5cm, but we haven't checked yet whether this is interior height or includes the cap).
+The location of the score (distance from the bulb along the handle) must be smaller than the height of the vial you use. For example, for the vials for use with Copan 480C swabs, the breakpoint is 7cm; for [15-](https://www.fishersci.com/shop/products/falcon-15ml-conical-centrifuge-tubes-5/p-193301) or [50-mL](https://www.fishersci.com/shop/products/falcon-50ml-conical-centrifuge-tubes-2/p-193321) conical tubes (of the kind used routinely in biomedical research and sold by many manufacturers), 11 cm will do. It is mildly easier for handling if the score is close to the height of the vial but the requirement is that it is less than the height.
 
 
 <a name="reqs"></a>
@@ -55,7 +53,7 @@ The distance along the handle where the scoring occurs depends on the vial you u
 
 -	Ideally, the bulb end is *flocked* (see below): it has lots of tiny bristles perpendicular to the wand (see close-up above). The bristles provide for a high surface-area-to-volume and helps both wick secretions onto the bristle and liberate particles when put in the transport medium. Perpendicularity is a nice-to-have that we believe may improve yield slightly but requires electrostatic deposition; even random orientation of flock should work fine
 
--	Bristles or collecting substrate (including any adhesive) must be firmly attached and not get left behind in the nasal cavity. Similarly no part of the swab should break off or get left in the nasal cavity. We have enough problems with the pandemic already
+-	Bristles or collecting substrate (including any adhesive) must be firmly attached and not get left behind in the nasal cavity. Similarly no part of the swab should break off or get left in the nasal cavity
 
 -	Materials cannot inhibit [PCR](https://en.wikipedia.org/wiki/Reverse_transcription_polymerase_chain_reaction). This means no wood or cotton (although we believe rayon is OK; see partial list of PCR inhibitors below). Nylon and polypropylene seem to be good choices, but start with medical equipment/grade materials if possible since they should be high quality/pure (some additives can be inihibitors).
 
@@ -65,9 +63,9 @@ The distance along the handle where the scoring occurs depends on the vial you u
 <a name="not-reqs"></a>
 ## NOT required
 
--	Sterility. Not a major concern for most uses; only for immunocompromised (in which case the ability to decontaminate by [autoclaving](https://en.wikipedia.org/wiki/Autoclave) or ethanol bath is needed). The air and the nose are already non-sterile and the PCR assay is specific enough to ignore most contaminants (as long as other Covid-19 contaminated things/people don’t come in contact with it and it doesn’t pick up PCR inhibitors)
+-	Sterility (but read on). Not a major concern for most uses; only for immunocompromised (in which case the ability to decontaminate by [autoclaving](https://en.wikipedia.org/wiki/Autoclave) or ethanol bath is needed). The air and the nose are already non-sterile and the PCR assay is specific enough to ignore most contaminants (as long as other Covid-19 contaminated things/people don’t come in contact with it and it doesn’t pick up PCR inhibitors)
 
--	Labor intensive is ok, to fill short term needs. There are students and researchers out of school and lab who are willing to volunteer to hand-assemble these from inoculation loops, adhesive, and wicking substrate #studentArmy
+-	Labor intensive is ok, to fill short term needs. There are students and researchers out of school and lab who are willing to volunteer to hand-assemble these from inoculation loops, adhesive, and wicking substrate
 
 
 
@@ -122,9 +120,9 @@ Again, we believe the best use of resources is to be creative around copying the
 <a name="flock"></a>
 ## Flock
 
-"Flock" is the name of the bristle material. It can be ordered from e.g. www.flockit.com as a powder. The below information comes from extremely helpful conversations with them and Celluseude, the manufacturer. (Please remember your flock manufacturers and distributors this holiday season.)
+"Flock" is the name of the bristle material. It can be ordered from e.g. www.flockit.com as a powder. The below information comes from extremely helpful conversations with them and Celluseude, the manufacturer.
 
-- The nylon flock on the tip of the picture is 3 denier (3 dtex) *(1)*
+- The nylon flock on the tip in the close-up picture above is 3 denier (= 3 dtex) *(1)*
 
 - The flock on the flocked swab above was likely applied using electrostatic deposition: flock coated with something positively charged, shaft coated with adhesive and electrically grounded. We do not need to do this: the previous version of swabs, still widely in use, have matted flock and they work well enough (slightly lower sensitivity but clinically for now we'll take it)
 
@@ -134,14 +132,58 @@ Again, we believe the best use of resources is to be creative around copying the
 
 - Rayon is also safe to use
 
-*(1)* Denier/dtex is a unit of measurement (*grams* per 9,000 *meters*) that the fabric industry uses. Denier is American; dtex is European. If the material had a different density from nylon but was of the same diameter, its denier measurement would be different.
+*(1)* Denier/dtex is a unit of measurement (*grams* per 9,000 *meters*) that the fabric industry uses. Denier is American; dtex is European; they are the same. If the material had a different density from nylon but was of the same diameter, its denier measurement would be different.
+
 
 
 <a name="adhesive"></a>
 ## Adhesive
 
+Some materials and adhesives inhibit PCR. See the Kodzius and forensicGEM files for details.
 
-Coming soon
+From those files:
+
+### Safe materials (any red bar above \~50 in Kodzius Fig. 3): (*1*)
+--polypropylene
+--PTFE
+--PDMS
+--SiO2 quartz
+--Pyrex glass
+--Soda-lime glass
+--NOA68
+
+### Unsafe materials:
+--PMMA
+--Silicon
+--SiO2 5600A
+--ITO glass
+--SU-8
+--NOA61
+
+### Safe adhesives (from Kodzius Fig. 3 and from forensicGEM document Fig. 1):
+--Wax (Tm 80C)
+--the glue used in Scotch Magic Tape 810
+--the glue used in Scotch Crystal Clear Tape
+--the glue used in Scotch Mailing Tape
+--the glue used in Scotch Storage Freezer Tape
+--the glue used in Scotch Transparent Tape 550
+--the glue used in Sellotape Brown Packaging Tape
+--the glue used in Applied Biosystems MicroSeal Adhesive Film
+
+### Unsafe adhesives:
+--Wax (Tm <80C)
+--Epoxy glue
+--Acrylic glue
+--the glue used in Scotch Masking Tape (made in Canada or Taiwan)
+--the glue used in Scotch Removable Magic Tape 811
+--the glue used in Sellotape Diamond Ultra Clear
+--the glue used in Sellotape Invisible Permanent Write-on
+--the glue used in Sellotape Cellulose Easy-Tear Tape
+--the glue used in Sellotape Double-Sided Tape
+--the glue used in 3M PostIt notes
+
+(*1*) Some materials can in principle be used as adhesives, e.g. PDMS
+
 
 
 <a name="contact"></a>
