@@ -7,7 +7,10 @@ The goal of this repository is sharing exertise to manufacture swabs.
 
 More specifically, because the crisis is now, the goal is to re-create versions of the swabs already in use (as opposed to better/fundamentally different designs).
 
-The files below contain some information to get started.
+Start by reading this document, which contains a more complete description of the swabs along with the key design criteria:
+[Initial_Spec.doc](/nasopharyngeal_swab_initial_spec_031720.docx?raw=true)
+
+The other files in this repo contain more information to get started and some initial designs.
 
 If anyone has any questions, please reach out to any of the contributors here or to Dr. Ramy Arnaout, MD, DPhil, at rarnaout@bidmc.harvard.edu or rarnaout@gmail.com.
 
