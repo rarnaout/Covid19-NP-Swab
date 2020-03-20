@@ -15,6 +15,7 @@ If anyone has any questions, please reach out to any of the contributors here or
 Anything you find here is free for use for all.
 
 
+
 ## Contents
 
 - [Basic description of an NP swab](#design)
@@ -24,7 +25,6 @@ Anything you find here is free for use for all.
 - [Approaches](#approaches)
 - [Flock](#flock)
 - [Contact](#contact)
-
 
 
 
@@ -57,13 +57,14 @@ The location of the score (distance from the bulb along the handle) must be smal
 
 -	Materials cannot inhibit [PCR](https://en.wikipedia.org/wiki/Reverse_transcription_polymerase_chain_reaction). This means no wood or cotton (although we believe rayon is OK; see partial list of PCR inhibitors below). Nylon and polypropylene seem to be good choices, but start with medical equipment/grade materials if possible since they should be high quality/pure (some additives can be inihibitors).
 
--	Wand must break off inside the tube – better to be too short than too long.  Wand could be manually scored to create a weak point
+-	Wand must break off inside the tube – better to be too short than too long (see "location of the score" above).  Wand could be manually scored to create a weak point
+
 
 
 <a name="not-reqs"></a>
 ## NOT required
 
--	Sterility (but read on). Not a major concern for most uses; only for immunocompromised (in which case the ability to decontaminate by [autoclaving](https://en.wikipedia.org/wiki/Autoclave) or ethanol bath is needed). The air and the nose are already non-sterile and the PCR assay is specific enough to ignore most contaminants (as long as other Covid-19 contaminated things/people don’t come in contact with it and it doesn’t pick up PCR inhibitors)
+-	Sterility (but read on). Not a *major* concern for most uses; only for immunocompromised (in which case the ability to decontaminate by [autoclaving](https://en.wikipedia.org/wiki/Autoclave) or ethanol bath is needed). The air and the nose are already non-sterile and the PCR assay is specific enough to ignore most contaminants (as long as other Covid-19 contaminated things/people don’t come in contact with it and it doesn’t pick up PCR inhibitors)
 
 -	Labor intensive is ok, to fill short term needs. There are students and researchers out of school and lab who are willing to volunteer to hand-assemble these from inoculation loops, adhesive, and wicking substrate
 
@@ -92,9 +93,9 @@ There are three main approaches to solving this crisis: (1) scrounging, (2) repu
 
 ### Scrounging, Repurposing
 
-...but just a word about scrounging and repurposing. There are lots of swabs used for various things floating around hospitals, outpatient clinics, private practices, and so on. **Be creative and ask everyone you know. That's what we've been doing and it's gotten us thousands of swabs.** This is a stopgap at best, but every swab counts.
+...but just a word about scrounging and repurposing. There are lots of swabs used for various things floating around hospitals, outpatient clinics, private practices, and so on. **Be creative and ask everyone you know. That's what we've been doing and it's gotten us thousands of potentially useful swabs.** This is a stopgap at best, but every swab counts.
 
-Will a repurposed swab work? Find someone who uses NP swabs, take pictures of what you find, and ask that person to weigh in on suitability. (We've been asking our respiratory care personnel.) In practice, as long as the materials are not wood or cotton, there's a chance you've got something usable. **If you find something that works, please tell us,** along with how you know it works, and we'll post it.
+To decide whether a scrounged or repurposed swab will work, find someone who uses NP swabs, take pictures of what you find, and ask that person to weigh in on suitability. (We've been asking our respiratory care personnel.) In practice, as long as the materials are not wood or cotton, there's a chance you've got something usable. **If you find something that works, please tell us,** along with how you know it works, and we'll post it.
 
 ### Manufacturing
 
@@ -110,7 +111,7 @@ If this sounds like how you'd solve this problem if you were still in elementary
 
 There are several alternatives being tried:
 
-- We are looking into using small urine loops as shafts; we don't yet have a solution for how to apply a swab end. Will post if we do. At least there are usually very many of these around in clinical microbiology laboratories
+- Using small microbiology bacterial urine loops as shafts; we don't yet have a solution for how to apply a swab end. Will post if we do. At least there are usually very many of these around in clinical microbiology laboratories
 - Printing a bristled head is a no-go for conventional 3D printers, as the features are too small. It is possible that a sand-blasted/chemically etched/otherwise roughened bulb *might* work, but we are not doing research here: we're looking for our best bet for a sure thing
 - Mascara brushes. The consensus so far is, the materials might be right but the brushes are far too large/widely spaced. Again, they *might* work, but see above
 
@@ -133,7 +134,6 @@ Again, we believe the best use of resources is to be creative around copying the
 - Rayon is also safe to use
 
 *(1)* Denier/dtex is a unit of measurement (*grams* per 9,000 *meters*) that the fabric industry uses. Denier is American; dtex is European; they are the same. If the material had a different density from nylon but was of the same diameter, its denier measurement would be different.
-
 
 
 <a name="adhesive"></a>
@@ -183,7 +183,6 @@ From those files:
 --the glue used in 3M PostIt notes
 
 (*1*) Some materials can in principle be used as adhesives, e.g. PDMS
-
 
 
 <a name="contact"></a>
