@@ -30,5 +30,5 @@
 1) quantify amount of absorption
    TODO: *quantify absorption of current swabs and test against current/old standard*
    - fill vials with fluid (what viscosity / chemical composition to simulate nasopharyx fluid?)
-   - measure volume of absorption over certain time period (*assume 5 seconds?*)
+   - measure volume of absorption over certain time period (TODO: *assume 5 seconds?*)
    
