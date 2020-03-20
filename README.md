@@ -65,7 +65,7 @@ The distance along the handle where the scoring occurs depends on the vial you u
 <a name="not-reqs"></a>
 ## NOT required
 
--	Sterility. Not a major concern for most uses; only for immunocompromised (in which case the ability to decontaminate by [autoclaving](https://en.wikipedia.org/wiki/Autoclave) or ethanol bath is needed). The air and the nose are already non-sterile and the PCR assay is specific enough to ignore most contaminants (as long as other Covid-19 contaminated things/people don’t come in contact with it and it doesn’t pick up PCR inhibitors)
+-	Sterility (but read on). Not a major concern for most uses; only for immunocompromised (in which case the ability to decontaminate by [autoclaving](https://en.wikipedia.org/wiki/Autoclave) or ethanol bath is needed). The air and the nose are already non-sterile and the PCR assay is specific enough to ignore most contaminants (as long as other Covid-19 contaminated things/people don’t come in contact with it and it doesn’t pick up PCR inhibitors)
 
 -	Labor intensive is ok, to fill short term needs. There are students and researchers out of school and lab who are willing to volunteer to hand-assemble these from inoculation loops, adhesive, and wicking substrate #studentArmy
 
