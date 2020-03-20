@@ -17,6 +17,14 @@ This is a team effort with already dozens of people involved from all over the c
 Anything you find here is free for use for all.
 
 
+- [Basic description of an NP swab](#design)
+- [Requirements](#reqs)
+- [NOT required](#not-reqs)
+- [List of known acceptable swabs](#acceptable-swabs)
+
+
+
+<a name="design"></a>
 ## Basic description of an NP swab
 
 ![Copan 480C](https://github.com/rarnaout/Covid19-NP-Swab/blob/master/copan_flocked_swab_macro.png)
@@ -30,7 +38,7 @@ There are two parts: a bristled bulb end (above) and a shaft. Often the shaft it
 The distance along the handle where the scoring occurs depends on the vial you use. For example, for the vials for use with Copan 480C swabs, the breakpoint is 7cm; for [15-](https://www.fishersci.com/shop/products/falcon-15ml-conical-centrifuge-tubes-5/p-193301) or [50-mL](https://www.fishersci.com/shop/products/falcon-50ml-conical-centrifuge-tubes-2/p-193321) conical tubes (of the kind used routinely in biomedical research and sold by many manufacturers), 11.5 cm will do (the 15mL Falcons are listed as 12cm, 50mL as 11.5cm, but we haven't checked yet whether this is interior height or includes the cap).
 
 
-
+<a name="reqs"></a>
 ## Requirements
 
 -	Wand is stiff enough to push to the back of the nasal cavity but flexible enough to get up the nose and will bend when it hits resistance instead of stabbing people (for reference, swabs are a little more flexible than the tiny straws used for coffee, and somewhat similar to the inside tube that holds the ink when you take apart a Bic ballpoint pen)
@@ -44,7 +52,8 @@ The distance along the handle where the scoring occurs depends on the vial you u
 -	Wand must break off inside the tube – better to be too short than too long.  Wand could be manually scored to create a weak point
 
 
-## NOT requirements
+<a name="not-reqs"></a>
+## NOT required
 
 -	Sterility. Not a major concern for most uses; only for immunocompromised (in which case the ability to decontaminate by [autoclaving](https://en.wikipedia.org/wiki/Autoclave) or ethanol bath is needed). The air and the nose are already non-sterile and the PCR assay is specific enough to ignore most contaminants (as long as other Covid-19 contaminated things/people don’t come in contact with it and it doesn’t pick up PCR inhibitors)
 
@@ -52,13 +61,10 @@ The distance along the handle where the scoring occurs depends on the vial you u
 
 
 
-
-
-
-
-
-
+<a name="acceptable-swabs"></a>
 ## List of known acceptable swabs
+
+Model what you make after one of these.
 
 Product numbers are listed. Unless otherwise stated, these are from the [FDA approved list](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/faqs-diagnostic-testing-sars-cov-2) current as of **March 20, 2020**. You can look these up online.
 
