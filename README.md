@@ -122,9 +122,9 @@ Again, we believe the best use of resources is to be creative around copying the
 <a name="flock"></a>
 ## Flock
 
-"Flock" is the name of the bristle material. It can be ordered from e.g. www.flockit.com as a powder. The below information comes from extremely helpful conversations with them and Celluseude, the manufacturer. Please remember your flock manufacturers and distributors this holiday season.
+"Flock" is the name of the bristle material. It can be ordered from e.g. www.flockit.com as a powder. The below information comes from extremely helpful conversations with them and Celluseude, the manufacturer. (Please remember your flock manufacturers and distributors this holiday season.)
 
-- The nylon flock on the tip of the picture is 3 denier (3 dtex). (Denier/dtex is a unit of measurement---grams per 9,000 meters; not a typo---that the fabric industry uses. Denier is American; dtex is European. If the material were some material other than nylon but of the same diameter, its denier measurement would be different. But for nylon, it's 3 denier.)
+- The nylon flock on the tip of the picture is 3 denier (3 dtex) *(1)*
 
 - The flock on the flocked swab above was likely applied using electrostatic deposition: flock coated with something positively charged, shaft coated with adhesive and electrically grounded. We do not need to do this: the previous version of swabs, still widely in use, have matted flock and they work well enough (slightly lower sensitivity but clinically for now we'll take it)
 
@@ -133,6 +133,8 @@ Again, we believe the best use of resources is to be creative around copying the
 - The only colors we should consider for the nylon are black and white, with preference for white. Black has some inorganic compound that was thought to be benign; white has titanium inside the fiber but not on the surface. White is the purest nylon. Colored nylons have various ionic or covalent groups on the outside, which are probably not things we want to deal with.
 
 - Rayon is also safe to use
+
+*(1)* Denier/dtex is a unit of measurement (*grams* per 9,000 *meters*) that the fabric industry uses. Denier is American; dtex is European. If the material had a different density from nylon but was of the same diameter, its denier measurement would be different.
 
 
 <a name="adhesive"></a>
