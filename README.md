@@ -1,3 +1,6 @@
+
+The below has now been merged into [this repo](https://github.com/HMS-RIC/Covid19-NP-Swab/).
+
 *Last updated: March 20, 2020*
 
 # Making NP swabs
