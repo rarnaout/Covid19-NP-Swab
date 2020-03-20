@@ -108,12 +108,14 @@ The consensus of a fair bit of thinking on our part is the simplest high-through
 - shake/blow/rinse off excess flock
 - (if needed) dip in 70% ethanol for sterilization
 
-If this sounds like how you'd solve this problem if you were still in elementary school, you're right. This is basically decorating Easter eggs (if you started with a 3D-printed Easter egg). Currently we have no proven way to automate the last three steps so we are envisioning a "student army," as mentioned above. **If you've got a better idea, now's the time.**
+This is like how you'd solve this problem if you were in elementary school. Currently we have no proven way to automate the last three steps so we are envisioning a "student army." **If you've got a better idea, now's the time.**
 
 There are several alternatives being tried:
 
 - Using small microbiology bacterial urine loops as shafts; we don't yet have a solution for how to apply a swab end. Will post if we do. At least there are usually very many of these around in clinical microbiology laboratories
+
 - Printing a bristled head is a no-go for conventional 3D printers, as the features are too small. It is possible that a sand-blasted/chemically etched/otherwise roughened bulb *might* work, but we are not doing research here: we're looking for our best bet for a sure thing
+
 - Mascara brushes. The consensus so far is, the materials might be right but the brushes are far too large/widely spaced. Again, they *might* work, but see above
 
 Again, we believe the best use of resources is to be creative around copying the template, not redesigning swabs.
@@ -145,43 +147,43 @@ Some materials and adhesives inhibit PCR. See the Kodzius and forensicGEM files 
 From those files:
 
 ### Safe materials (any red bar above \~50 in Kodzius Fig. 3): (*1*)
---polypropylene
---PTFE
---PDMS
---SiO2 quartz
---Pyrex glass
---Soda-lime glass
---NOA68
+- polypropylene
+- PTFE
+- PDMS
+- SiO2 quartz
+- Pyrex glass
+- Soda-lime glass
+- NOA68
 
 ### Unsafe materials:
---PMMA
---Silicon
---SiO2 5600A
---ITO glass
---SU-8
---NOA61
+- PMMA
+- Silicon
+- SiO2 5600A
+- ITO glass
+- SU-8
+- NOA61
 
 ### Safe adhesives (from Kodzius Fig. 3 and from forensicGEM document Fig. 1):
---Wax (Tm 80C)
---the glue used in Scotch Magic Tape 810
---the glue used in Scotch Crystal Clear Tape
---the glue used in Scotch Mailing Tape
---the glue used in Scotch Storage Freezer Tape
---the glue used in Scotch Transparent Tape 550
---the glue used in Sellotape Brown Packaging Tape
---the glue used in Applied Biosystems MicroSeal Adhesive Film
+- Wax (Tm 80C)
+- the glue used in Scotch Magic Tape 810
+- the glue used in Scotch Crystal Clear Tape
+- the glue used in Scotch Mailing Tape
+- the glue used in Scotch Storage Freezer Tape
+- the glue used in Scotch Transparent Tape 550
+- the glue used in Sellotape Brown Packaging Tape
+- the glue used in Applied Biosystems MicroSeal Adhesive Film
 
 ### Unsafe adhesives:
---Wax (Tm <80C)
---Epoxy glue
---Acrylic glue
---the glue used in Scotch Masking Tape (made in Canada or Taiwan)
---the glue used in Scotch Removable Magic Tape 811
---the glue used in Sellotape Diamond Ultra Clear
---the glue used in Sellotape Invisible Permanent Write-on
---the glue used in Sellotape Cellulose Easy-Tear Tape
---the glue used in Sellotape Double-Sided Tape
---the glue used in 3M PostIt notes
+- Wax (Tm <80C)
+- Epoxy glue
+- Acrylic glue
+- the glue used in Scotch Masking Tape (made in Canada or Taiwan)
+- the glue used in Scotch Removable Magic Tape 811
+- the glue used in Sellotape Diamond Ultra Clear
+- the glue used in Sellotape Invisible Permanent Write-on
+- the glue used in Sellotape Cellulose Easy-Tear Tape
+- the glue used in Sellotape Double-Sided Tape
+- the glue used in 3M PostIt notes
 
 (*1*) Some materials can in principle be used as adhesives, e.g. PDMS
 
