@@ -23,7 +23,7 @@ Anything you find here is free for use for all.
 - [Requirements](#reqs)
 - [NOT required](#not-reqs)
 - [List of known acceptable swabs](#acceptable-swabs)
-- [Approaches](#appraoches)
+- [Approaches](#approaches)
 
 
 
@@ -110,7 +110,7 @@ The consensus of a fair bit of thinking on our part is the simplest high-through
 
 There are several alternatives being tried. To save you some time:
 
-#### 
+
 
 
 
