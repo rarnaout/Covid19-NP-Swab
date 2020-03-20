@@ -27,6 +27,7 @@ Anything you find here is free for use for all.
 - [List of known acceptable swabs](#acceptable-swabs)
 - [Approaches](#approaches)
 - [Flock](#flock)
+- [Materials and adhesives](#adhesive)
 - [Contact](#contact)
 
 
@@ -34,9 +35,9 @@ Anything you find here is free for use for all.
 <a name="design"></a>
 ## Basic description of an NP swab
 
-![Copan 480C](https://github.com/rarnaout/Covid19-NP-Swab/blob/master/copan_flocked_swab_macro.png)
+![Copan 480C](swab_images/copan_flocked_swab_macro.png)
 
-![Copan 480C closeup](https://github.com/rarnaout/Covid19-NP-Swab/blob/master/copan_flocked_swab_micro_1.png)
+![Copan 480C closeup](swab_images/copan_flocked_swab_micro_1.png)
 
 An NP swab is a flexible stick around 15cm in length that goes up your nose to the back of the nasal cavity (see [movie](https://www.youtube.com/watch?v=hXohAo1d6tk&feature=youtu.be&t=40)). It is swept or twirled around to brush or wick up secretions, which carry Covid-19 virus particles. The swab comes out of the nose and goes into a vial that contains fluid (viral transport medium). The vial gets capped and sent for processing.
 
@@ -46,8 +47,7 @@ The bulb looks like it would be fluffy to the touch but it is not: the bristles 
 
 Often the shaft itself has a thin **neck**, for flexibility, and a thicker **handle**. The handle is often **scored**---a weak point in the shaft---where you can break it off so the bristled part stays in the vial; the handle is then thrown away.
 
-The distance along the handle where the scoring should be smaller than the height of the vial you use. For example, for the vials for use with Copan 480C swabs, the breakpoint is 7cm; for [15-](https://www.fishersci.com/shop/products/falcon-15ml-conical-centrifuge-tubes-5/p-193301) or [50-mL](https://www.fishersci.com/shop/products/falcon-50ml-conical-centrifuge-tubes-2/p-193321) conical tubes (of the kind used routinely in biomedical research and sold by many manufacturers), 11 cm will do. It is mildly easier for handling if the score is close to the height of the vial but the requirement is that it is less than the height.
-
+The location of the score (distance from the bulb along the handle) must be smaller than the height of the vial you use. For example, for the vials for use with Copan 480C swabs, the breakpoint is 7cm; for [15-](https://www.fishersci.com/shop/products/falcon-15ml-conical-centrifuge-tubes-5/p-193301) or [50-mL](https://www.fishersci.com/shop/products/falcon-50ml-conical-centrifuge-tubes-2/p-193321) conical tubes (of the kind used routinely in biomedical research and sold by many manufacturers), 11 cm will do. It is mildly easier for handling if the score is close to the height of the vial but the requirement is that it is less than the height.
 
 
 <a name="reqs"></a>
@@ -61,14 +61,14 @@ The distance along the handle where the scoring should be smaller than the heigh
 
 -	Materials cannot inhibit [PCR](https://en.wikipedia.org/wiki/Reverse_transcription_polymerase_chain_reaction). This means no wood or cotton (although we believe rayon is OK; see partial list of PCR inhibitors below). Nylon and polypropylene seem to be good choices, but start with medical equipment/grade materials if possible since they should be high quality/pure (some additives can be inihibitors).
 
--	Wand must break off inside the tube – better to be too short than too long.  Wand could be manually scored to create a weak point
+-	Wand must break off inside the tube – better to be too short than too long (see "location of the score" above).  Wand could be manually scored to create a weak point
 
 
 
 <a name="not-reqs"></a>
 ## NOT required
 
--	Sterility (but read on). Not a major concern for most uses; only for immunocompromised (in which case the ability to decontaminate by [autoclaving](https://en.wikipedia.org/wiki/Autoclave) or ethanol bath is needed). The air and the nose are already non-sterile and the PCR assay is specific enough to ignore most contaminants (as long as other Covid-19 contaminated things/people don’t come in contact with it and it doesn’t pick up PCR inhibitors)
+-	Sterility (but read on). Not a *major* concern for most uses; only for immunocompromised (in which case the ability to decontaminate by [autoclaving](https://en.wikipedia.org/wiki/Autoclave) or ethanol bath is needed). The air and the nose are already non-sterile and the PCR assay is specific enough to ignore most contaminants (as long as other Covid-19 contaminated things/people don’t come in contact with it and it doesn’t pick up PCR inhibitors)
 
 -	Labor intensive is ok, to fill short term needs. There are students and researchers out of school and lab who are willing to volunteer to hand-assemble these from inoculation loops, adhesive, and wicking substrate
 
@@ -97,9 +97,9 @@ There are three main approaches to solving this crisis: (1) scrounging, (2) repu
 
 ### Scrounging, Repurposing
 
-...but just a word about scrounging and repurposing. There are lots of swabs used for various things floating around hospitals, outpatient clinics, private practices, and so on. **Be creative and ask everyone you know. That's what we've been doing and it's gotten us thousands of swabs.** This is a stopgap at best, but every swab counts. 
+...but just a word about scrounging and repurposing. There are lots of swabs used for various things floating around hospitals, outpatient clinics, private practices, and so on. **Be creative and ask everyone you know. That's what we've been doing and it's gotten us thousands of potentially useful swabs.** This is a stopgap at best, but every swab counts.
 
-Will a repurposed swab work? Find someone who uses NP swabs, take pictures of what you find, and ask that person to weigh in on suitability. (We've been asking our respiratory care personnel.) In practice, as long as the materials are not wood or cotton, there's a chance you've got something usable. **If you find something that works, please tell us,** along with how you know it works, and we'll post it.
+To decide whether a scrounged or repurposed swab will work, find someone who uses NP swabs, take pictures of what you find, and ask that person to weigh in on suitability. (We've been asking our respiratory care personnel.) In practice, as long as the materials are not wood or cotton, there's a chance you've got something usable. **If you find something that works, please tell us,** along with how you know it works, and we'll post it.
 
 ### Manufacturing
 
@@ -111,12 +111,14 @@ The consensus of a fair bit of thinking on our part is the simplest high-through
 - shake/blow/rinse off excess flock
 - (if needed) dip in 70% ethanol for sterilization
 
-If this sounds like how you'd solve this problem if you were still in elementary school, you're right. This is basically decorating Easter eggs (if you started with a 3D-printed Easter egg). Currently we have no proven way to automate the last three steps so we are envisioning a "student army," as mentioned above. **If you've got a better idea, now's the time.**
+This is like how you'd solve this problem if you were in elementary school. Currently we have no proven way to automate the last three steps so we are envisioning a "student army." **If you've got a better idea, now's the time.**
 
 There are several alternatives being tried:
 
-- We are looking into using small urine loops as shafts; we don't yet have a solution for how to apply a swab end. Will post if we do. At least there are usually very many of these around in clinical microbiology laboratories
+- Using small microbiology bacterial urine loops as shafts; we don't yet have a solution for how to apply a swab end. Will post if we do. At least there are usually very many of these around in clinical microbiology laboratories
+
 - Printing a bristled head is a no-go for conventional 3D printers, as the features are too small. It is possible that a sand-blasted/chemically etched/otherwise roughened bulb *might* work, but we are not doing research here: we're looking for our best bet for a sure thing
+
 - Mascara brushes. The consensus so far is, the materials might be right but the brushes are far too large/widely spaced. Again, they *might* work, but see above
 
 Again, we believe the best use of resources is to be creative around copying the template, not redesigning swabs.
@@ -131,7 +133,7 @@ Again, we believe the best use of resources is to be creative around copying the
 
 - The flock on the flocked swab above was likely applied using electrostatic deposition: flock coated with something positively charged, shaft coated with adhesive and electrically grounded. We do not need to do this: the previous version of swabs, still widely in use, have matted flock and they work well enough (slightly lower sensitivity but clinically for now we'll take it)
 
-- In general acrylic is used as the adhesive for flock, but be aware that acrylic is a **known PCR inhibitor** (see below). Decision point is rinse a lot to remove loose acrylic vs. just use something safer. Apparently Elmer's has something of the same problem. 
+- In general acrylic is used as the adhesive for flock, but be aware that acrylic is a **known PCR inhibitor** (see below). Decision point is rinse a lot to remove loose acrylic vs. just use something safer. Apparently Elmer's has something of the same problem.
 
 - The only colors we should consider for the nylon are black and white, with preference for white. Black has some inorganic compound that was thought to be benign; white has titanium inside the fiber but not on the surface. White is the purest nylon. Colored nylons have various ionic or covalent groups on the outside, which are probably not things we want to deal with.
 
@@ -141,50 +143,50 @@ Again, we believe the best use of resources is to be creative around copying the
 
 
 <a name="adhesive"></a>
-## Adhesive
+## Materials and adhesives
 
 Some materials and adhesives inhibit PCR. See the Kodzius and forensicGEM files for details.
 
 From those files:
 
 ### Safe materials (any red bar above \~50 in Kodzius Fig. 3): (*1*)
---polypropylene
---PTFE
---PDMS
---SiO2 quartz
---Pyrex glass
---Soda-lime glass
---NOA68
+- polypropylene
+- PTFE
+- PDMS
+- SiO2 quartz
+- Pyrex glass
+- Soda-lime glass
+- NOA68
 
 ### Unsafe materials:
---PMMA
---Silicon
---SiO2 5600A
---ITO glass
---SU-8
---NOA61
+- PMMA
+- Silicon
+- SiO2 5600A
+- ITO glass
+- SU-8
+- NOA61
 
 ### Safe adhesives (from Kodzius Fig. 3 and from forensicGEM document Fig. 1):
---Wax (Tm 80C)
---the glue used in Scotch Magic Tape 810
---the glue used in Scotch Crystal Clear Tape
---the glue used in Scotch Mailing Tape
---the glue used in Scotch Storage Freezer Tape
---the glue used in Scotch Transparent Tape 550
---the glue used in Sellotape Brown Packaging Tape
---the glue used in Applied Biosystems MicroSeal Adhesive Film
+- Wax (Tm 80C)
+- the glue used in Scotch Magic Tape 810
+- the glue used in Scotch Crystal Clear Tape
+- the glue used in Scotch Mailing Tape
+- the glue used in Scotch Storage Freezer Tape
+- the glue used in Scotch Transparent Tape 550
+- the glue used in Sellotape Brown Packaging Tape
+- the glue used in Applied Biosystems MicroSeal Adhesive Film
 
 ### Unsafe adhesives:
---Wax (Tm <80C)
---Epoxy glue
---Acrylic glue
---the glue used in Scotch Masking Tape (made in Canada or Taiwan)
---the glue used in Scotch Removable Magic Tape 811
---the glue used in Sellotape Diamond Ultra Clear
---the glue used in Sellotape Invisible Permanent Write-on
---the glue used in Sellotape Cellulose Easy-Tear Tape
---the glue used in Sellotape Double-Sided Tape
---the glue used in 3M PostIt notes
+- Wax (Tm <80C)
+- Epoxy glue
+- Acrylic glue
+- the glue used in Scotch Masking Tape (made in Canada or Taiwan)
+- the glue used in Scotch Removable Magic Tape 811
+- the glue used in Sellotape Diamond Ultra Clear
+- the glue used in Sellotape Invisible Permanent Write-on
+- the glue used in Sellotape Cellulose Easy-Tear Tape
+- the glue used in Sellotape Double-Sided Tape
+- the glue used in 3M PostIt notes
 
 (*1*) Some materials can in principle be used as adhesives, e.g. PDMS
 
@@ -192,7 +194,7 @@ From those files:
 <a name="contact"></a>
 ## Contact us
 
-We want to emphasize this is a **group effort** with literally scores of people working on this right now; if you're reading this, you're probably one of them. If you have something to contribute, please contact Dr. Ramy Arnaout, MD, DPhil, at rarnaout@bidmc.harvard.edu. 
+We want to emphasize this is a **group effort** with literally scores of people working on this right now; if you're reading this, you're probably one of them. If you have something to contribute, please contact Dr. Ramy Arnaout, MD, DPhil, at rarnaout@bidmc.harvard.edu.
 
 Note there's also now a [Slack channel](https://join.slack.com/t/rapidmanufact-iop4498/shared_invite/zt-cykndes6-XtxzG~8bkji64M3wTVWiOw).
 
